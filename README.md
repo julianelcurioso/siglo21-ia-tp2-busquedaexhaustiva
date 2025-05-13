@@ -50,6 +50,6 @@ Este trabajo práctico forma parte del Módulo 2 de la materia Inteligencia Arti
 ---
 Referencias
 
-- Rich, E., & Knight, K. (1996). *Artificial Intelligence*. McGraw-Hill.
-- Russell, S., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
-- Nilsson, N. J. (1998). *Artificial Intelligence: A New Synthesis*. Morgan Kaufmann.
+ -Rich, E., & Knight, K. (1996). Inteligencia artificial. McGraw-Hill.
+ -Russell, S., & Norvig, P. (2021). Inteligencia artificial: Un enfoque moderno (4.ª ed.). Pearson.
+ -Nilsson, N. J. (1998). Inteligencia artificial: Una nueva síntesis. Morgan Kaufmann.
