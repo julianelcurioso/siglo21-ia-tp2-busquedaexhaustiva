@@ -48,8 +48,9 @@ Enfoque didáctico
 Este trabajo práctico forma parte del Módulo 2 de la materia Inteligencia Artificial. Aplica conceptos teóricos a una problemática realista mediante algoritmos simples pero efectivos, con el fin de desarrollar habilidades analíticas y de programación.
 
 ---
-Referencias
+**Referencias**
 
- -Rich, E., & Knight, K. (1996). Inteligencia artificial. McGraw-Hill.
- -Russell, S., & Norvig, P. (2021). Inteligencia artificial: Un enfoque moderno (4.ª ed.). Pearson.
- -Nilsson, N. J. (1998). Inteligencia artificial: Una nueva síntesis. Morgan Kaufmann.
+Rich, E., & Knight, K. (1996). *Inteligencia artificial*. McGraw-Hill.  
+Russell, S., & Norvig, P. (2021). *Inteligencia artificial: Un enfoque moderno* (4.ª ed.). Pearson.  
+Nilsson, N. J. (1998). *Inteligencia artificial: Una nueva síntesis*. Morgan Kaufmann.
+
